@@ -1,7 +1,7 @@
-# [Oxford Guide To English Grammar - Content]()
+# [Oxford Guide To English Grammar - Content](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#oxford-guide-to-english-grammar---content)
 
 
-# [Sentence and text](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text-1)
+# [Sentence and text](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#oxford-guide-to-english-grammar---content)
 
 1. [English grammar ](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#1-english-grammar)
 2. [The simple sentence](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#2-the-simple-sentence)
@@ -11,7 +11,7 @@
 6. [Information and emphasis](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#6-information-and-emphasis)
 7. [Spoken English and written English](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#7-spoken-english-and-written-english)
 
-# [Verb forms](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#verb-forms-1)
+# [Verb forms](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#oxford-guide-to-english-grammar---content)
 
 8. [The verb phrase](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#8-the-verb-phrase)
 9. [Verb tenses and aspects](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#9-verb-tenses-and-aspects)
@@ -20,13 +20,13 @@
 12. [Modal verbs](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#12-modal-verbs)
 13. [The passive](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#13-the-passive)
 
-# [Infinitive, gerund and participles](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#infinitive-gerund-and-participles-1)
+# [Infinitive, gerund and participles](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#oxford-guide-to-english-grammar---content)
 
 14. [The infinitive](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#14-the-infinitive)
 15. [The gerund](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#15-the-gerund)
 16. [Participles](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#16-participles)
 
-# [The noun phrase](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#the-noun-phrase-1)
+# [The noun phrase](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#oxford-guide-to-english-grammar---content)
 
 17. [Nouns and noun phrases](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#17-nouns-and-noun-phrases)
 18. [Agreement](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#18-agreement)
@@ -34,9 +34,9 @@
 20. [Possessives and demonstratives](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#20-possessives-and-demonstratives)
 21. [Quantifiers](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#21-quantifiers)
 22. [Pronouns](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#22-pronouns)
-23. [Numbers and measurements]()
+23. [Numbers and measurements](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#oxford-guide-to-english-grammar---content)
 
-# [Adjectives, adverbs and prepositions](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#adjectives-adverbs-and-prepositions-1)
+# [Adjectives, adverbs and prepositions](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#oxford-guide-to-english-grammar---content)
 
 24. [Adjectives](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#24-adjectives)
 25. [Adverbials](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#25-adverbials)
@@ -44,7 +44,7 @@
 27. [Prepositions](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#27-prepositions)
 28. [Phrasal verbs and patterns with prepositions](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#28-phrasal-verbs-and-patterns-with-prepositions)
 
-# [Main clauses and sub clauses](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#main-clauses-and-sub-clauses-1)
+# [Main clauses and sub clauses](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#oxford-guide-to-english-grammar---content)
 
 29. [Sentences with more than one clause](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#29-sentences-with-more-than-one-clause)
 30. [And, or, but, so etc](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#30-and-or-but-so-etc)
@@ -54,22 +54,43 @@
 34. [Direct and indirect speech](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#34-direct-and-indirect-speech)
 35. [Relative clauses](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#35-relative-clauses)
 
-# [Word forms](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#word-forms-1)
+# [Word forms](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#oxford-guide-to-english-grammar---content)
 
 36. [Word-building](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#36-word-building)
 37. [Word endings: pronunciation and spelling](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#37-word-endings-pronunciation-and-spelling)
 38. [Irregular noun plurals](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#38-irregular-noun-plurals)
 39. [Irregular verb forms](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#39-irregular-verb-forms)
 
-# [Appendix](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#appendix-1)
+# [Appendix](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#oxford-guide-to-english-grammar---content)
 
 40. [American English](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#40-american-english)
 
-# [Oxford Guide To English Grammar](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#oxford-guide-to-english-grammar)
+# [Oxford Guide To English Grammar](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#oxford-guide-to-english-grammar---content)
 
 # [Sentence and text](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 
 # 1. [English grammar](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
+
+# Grammatical Units
+
+Word, phase, clause and sentence.
+
+# Word Classes
+
+verb, noun, adjectives, adverb, preposition, determiner, pronoun and conjunction.
+
+# Phases
+
+Verb phrase, noun phrase, adjective phrase adverb phrase and prepositional phrase.
+
+# Sentence Elements
+
+Subject, verb, object, complement and adverbial.
+
+# English compared with other languages.
+
+English words do nor have a lot of different endings for number and gender. Word order is very important in English. The verb phrase can have a complex structure. There are many idioms with prepositions.
+
 # 2. [The simple sentence](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 3. [Statements, questions, imperatives and exclamations](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 4. [Questions and answers](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
