@@ -92,6 +92,57 @@ Subject, verb, object, complement and adverbial.
 English words do nor have a lot of different endings for number and gender. Word order is very important in English. The verb phrase can have a complex structure. There are many idioms with prepositions.
 
 # 2. [The simple sentence](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
+
+A FLIGHT ANNOUNCEMENT
+'Good evening, ladies and gentlemen. On behalf of British Island Airways, Captain Massey and his crew welcome you on board the Start Herald Flight to Southampton. Our flight time will be approximately forty-five minutes, and we shall be climbing to an altitude of eight thousand feet and cruising at a speed of two hundred and fifty miles per hour.'
+
+The grammatical units of English are **words**, **phrases**, **clauses** and **sentences**.
+
+# 1 Words
+
+The words in the announcement are good, evening, ladies, and, gentlemen, on etc.
+
+>For word-building, e.g. air + ways= airways, • 282.
+ 
+# 2 Phrases and clauses
+
+We use phrases to build a clause. Here is an example.
+
+| Subject         | Verb          | Complement                         |
+|-----------------|---------------|------------------------------------|
+| (noun phrase)   | (verb phrase) | (noun phrase)                      |
+| Our flight time | will be       | approximately forty-five minutes.  |
+|                 |               |                                    |
+
+1. Here the noun phrase our    flight time is the subject of the clause.
+2. A clause has a subject and a verb. 
+3. There can be other phrases, too.
+
+In this next example we use a prepositional phrase as an adverbial.
+
+| Adverbial                | Subject       | Verb          | Object        | Object             |
+|--------------------------|---------------|---------------|---------------|--------------------|
+| (prepositional phrase)   | (noun phrase) | (verb phrase) | (noun phrase) | (noun phrase)      |
+| On behalf of the airline | we            | wish          | you           | a pleasant flight. |
+|                          |               |               |               |                    |
+
+For more about the different kinds of phrases, • 4.
+For subject, object, complement and adverbial, • 5.
+For finite and non-finite clauses, • 239 (3).
+
+# 3 Sentences
+
+A sentence can be a single clause.
+
+On behalf of British Island Airways, Captain Massey and his crew welcome you on board the Start Herald flight to Southampton.
+
+A written sentence begins with a capital letter (On) and ends with a mark such as a full stop.
+
+We can also combine two or more clauses in one sentence. For example, we can use and to link the clauses.
+
+Our flight time will be approximately forty-five minutes, **and** we shall be climbing to an altitude of eight thousand feet **and** cruising at a speed of two hundred and fifty miles an hour.
+
+
 # 3. [Statements, questions, imperatives and exclamations](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 4. [Questions and answers](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 5. [Leaving out and replacing words](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
