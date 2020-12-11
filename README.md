@@ -91,7 +91,6 @@ Subject, verb, object, complement and adverbial.
 
 English words do nor have a lot of different endings for number and gender. Word order is very important in English. The verb phrase can have a complex structure. There are many idioms with prepositions.
 
-# 2. [The simple sentence](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 
 A FLIGHT ANNOUNCEMENT
 'Good evening, ladies and gentlemen. On behalf of British Island Airways, Captain Massey and his crew welcome you on board the Start Herald Flight to Southampton. Our flight time will be approximately forty-five minutes, and we shall be climbing to an altitude of eight thousand feet and cruising at a speed of two hundred and fifty miles per hour.'
@@ -142,7 +141,36 @@ We can also combine two or more clauses in one sentence. For example, we can use
 
 Our flight time will be approximately forty-five minutes, **and** we shall be climbing to an altitude of eight thousand feet **and** cruising at a speed of two hundred and fifty miles an hour.
 
+# III Word Classes
 
+1. There are different classes of word, sometimes called 'parts of speech'. The word come is a verb, letter is a noun and great is an adjective.
+>Some words belong to more than one word class. For example, test can be a noun or a verb. He passed the test (noun). He had to test the machine. (verb)
+
+2. There are eight main word classes in English.
+  - Verb: climb, eat, welcome, be
+  - Noun: aircraft, country, lady, hour
+  - Adjective: good, British, cold, quick
+  - Adverb: quickly, always, approximately
+  - Preposition: to, of, at, on
+  - Determiner: the, his, some, forty-five
+  - Pronoun: we, you, them, myself
+  - Conjunction: and, but, so
+
+>NOTE There is also a small class of words called 'interjections'. They include oh, ah and mhm.
+
+3. Verbs, nouns, adjectives and adverbs are 'vocabulary words'. Learning vocabulary means learning verbs, nouns, adjectives and adverbs.
+Prepositions, determiners, pronouns and conjunctions belong to much smaller classes. These words are sometimes called 'grammatical words'.
+
+4. Most word classes can be divided into sub-classes. For example:
+
+| Word Classes |                                                                                                                                     |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Verb         | Ordinary verb: go, like, think, apply; Auxiliary verb: is, had, can, must.                                                          |
+| Adverb       | Adverb of manner:suddenly, quickly.  Adverb of frequency: always, often. Adverb of place: there, nearby. Linking adverb: too, also. |
+| Determiner   | Linking adverb: too, also. Possessive: my, his. Demonstrative: this, that. Quantifier: all, three.                                  |
+
+
+# 2. [The simple sentence](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 3. [Statements, questions, imperatives and exclamations](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 4. [Questions and answers](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 5. [Leaving out and replacing words](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
