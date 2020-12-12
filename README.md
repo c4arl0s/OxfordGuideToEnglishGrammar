@@ -169,6 +169,29 @@ Prepositions, determiners, pronouns and conjunctions belong to much smaller clas
 | Adverb       | Adverb of manner:suddenly, quickly.  Adverb of frequency: always, often. Adverb of place: there, nearby. Linking adverb: too, also. |
 | Determiner   | Linking adverb: too, also. Possessive: my, his. Demonstrative: this, that. Quantifier: all, three.                                  |
 
+# Phrases
+
+There are five kinds of phrase.
+
+1. **Verb phrase**: come, had thought, was left, will be climbing
+
+A verb phrase has an ordinary verb (come, thought, left, climbing) and may also have an auxiliary (had, was, will).
+
+2. Noun phrase: a goodflight, his crew, we 
+
+A noun phrase has a noun (flight), which usually has a determiner (a) and/or adjective (good) in front of it. A noun phrase can also be a pronoun (we).
+
+3. Adjective phrase: pleasant, very late
+
+An adjective phrase has an adjective, sometimes with an adverb of degree (very).
+
+4. Adverb phrase: quickly, almost certainly
+
+An adverb phrase has an adverb, sometimes with an adverb of degree (almost).
+
+5. Prepositional phrase: after lunch, on the aircraft
+
+A prepositional phrase is a preposition + noun phrase.
 
 # 2. [The simple sentence](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 3. [Statements, questions, imperatives and exclamations](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
