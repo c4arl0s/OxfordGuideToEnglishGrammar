@@ -191,7 +191,44 @@ An adverb phrase has an adverb, sometimes with an adverb of degree (almost).
 
 5. Prepositional phrase: after lunch, on the aircraft
 
-A prepositional phrase is a preposition + noun phrase.
+A prepositional phrase is a preposition + noun phrase. 
+
+# 5 Sentence elements
+
+1. Each phrase plays a part in the clause or sentence. Here are some examples:
+
+| Subject    | Verb       | Adverbial |
+|------------|------------|-----------|
+| The flight | is leaving | shortly   |
+
+| Subject     | Verb | Complement |
+|-------------|------|------------|
+| The weather | is   | very good  |
+| My father   | was  | a pilot    |
+
+| Subject      | Verb        | Object      |
+|--------------|-------------|-------------|
+| I            | was reading | a newspaper |
+| Two stewards | served      | lunch       |
+
+| Subject      | verb      | object      | adverbial        |
+|--------------|-----------|-------------|------------------|
+| The aircraft | left      | London      | at three o'clock |
+| We           | must book | the tickets | next week.       |
+
+2. These are the elements of an English sentence and the kinds of phrase that we can use for each element.
+
+|            |                                                                                       |
+|------------|---------------------------------------------------------------------------------------|
+| Subject    | Noun phrase: the flight, two stewards                                                 |
+| Verb       | Verb phrase: is, served, must book                                                    |
+| Object     | Noun phrase: a newspaper, lunch.                                                      |
+| Complement | Adjective phrase: very good. Noun phrase: a pilot                                     |
+| Adverbial  | Adverb phrase: shortly Prepositional phrase: at three o'clock Noun phrase: next week. |
+
+
+>a: The verb is central to the sentence and we use the word 'verb' for both senetence element - The verb follows the subject' - and for the word class - `leave is a verbe`.
+>b: The word there can be the subject * 50. There was a letter for you.
 
 # 2. [The simple sentence](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 3. [Statements, questions, imperatives and exclamations](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
