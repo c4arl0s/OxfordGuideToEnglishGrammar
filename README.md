@@ -230,6 +230,51 @@ A prepositional phrase is a preposition + noun phrase.
 >a: The verb is central to the sentence and we use the word 'verb' for both senetence element - The verb follows the subject' - and for the word class - `leave is a verbe`.
 >b: The word there can be the subject * 50. There was a letter for you.
 
+# English Compared with other languages
+
+1. Endings
+
+Unlike words in some other languages, English words do not have a lot of different endings. Nouns take s in the plural (miles), but they do not have endings to show whether they are subject or object.
+
+Verbs take a few endings such as ed for the past (started), but they do not take endings for person, except in the third person singular of the present tense (it starts).
+
+
+Articles (e.g. the), Possessives (e.g. my) and adjectives (e.g. good) do not have endings for number or gender. Pronouns (e.g. lime) have fewer forms than in many languages.
+
+2. Word order
+
+Word order is very important in English. As nouns do not have endings for subject or object, it is the word order that shows which is which.
+
+| Subject   | Verb  | Object    |                 |
+|-----------|-------|-----------|-----------------|
+| The woman | loved | the man   | (she loved him) |
+| The man   | loved | the woman | (he loved her)  |
+
+The subject-verb order is fixed, and we can change it only if there is a special reason.
+
+3. Verb phrases
+
+A verb phrase can have a complex structure. There can be auxiliary verbs as well as the ordinary verb.
+
+I climbed up the ladder
+I was climbing the mountain
+We shall be climbing to an altitude of eight thousand feet.
+
+The use of tense and auxiliary verbs can be difficult for speakers of other languages.
+
+4. Prepositions
+
+The use of prepositions in English can be a problem.
+
+We flew here on Friday.
+We left at two o'clock.
+
+Both prepositions and adverbs combine with verbs in an idiomatic way.
+
+There were waiting for the flight. The plane took off.
+
+There are many expressions involving prepositions that you need to learn as items of vocabulary.
+
 # 2. [The simple sentence](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 3. [Statements, questions, imperatives and exclamations](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 4. [Questions and answers](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
