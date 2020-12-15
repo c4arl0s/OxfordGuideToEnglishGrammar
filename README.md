@@ -276,6 +276,78 @@ There were waiting for the flight. The plane took off.
 There are many expressions involving prepositions that you need to learn as items of vocabulary.
 
 # 2. [The simple sentence](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
+
+# Summary
+
+This story contains examples of different clause patterns.
+
+AN UNLUCKY THIEF
+A man walked into a hotel, saw a nice coat, put it over his arm and walked out again. Then he tried to hitch a lift out of town. While he was waiting, he put the coat on. At last a coach stopped and gave him a lift. It was carrying forty detectives on their way home from a conference on crime. One of them had recently become a detective inspector. He recognized the coat. It was his. He had left it in the hotel, and it had gone missing. The thief gave the inspector his coat. The inspector arrested him. 'It seemed a good idea at the time,' the man said. He thought himself rather unlucky.
+
+There are five elements that can be part of a clause. **They are subject, verb, object, complement and adverbial**.
+
+Basic clause patterns
+
+Intransitive and transitive verbs • 8
+
+| Subject | Intransive Verb |
+|---------|-----------------|
+| A couch | stopped         |
+
+| Subject       | Intransive Verb | Object    |
+|---------------|-----------------|-----------|
+| The detective | arrested        | the thief |
+
+Linking verbs • 9
+
+| Subject       | Verb   | Complement     |
+|---------------|--------|----------------|
+| The thief     | was    | rather unlucky |
+| The detective | became | an inspector   |
+
+| Subject        | Verb | Adverbial    |
+|----------------|------|--------------|
+| The coat       | was  | over his arm |
+| The conference | is   | every year.  |
+
+Give, send etc • 10
+
+| Subject   | Verb | Object        | Object   |
+|-----------|------|---------------|----------|
+| The thief | gave | the inspector | his coat |
+
+Call, put etc •11
+
+| Subject   | Verb    | Object        | Complement     |
+|-----------|---------|---------------|----------------|
+| They      | called  | the inspector | sir.           |
+| The thief | thought | himself       | rather unlucky |
+
+| Subject | Verb | Object   | Adverbial     |
+|---------|------|----------|---------------|
+| He      | put  | the coat | over his arm. |
+
+ll these seven clause patterns contain a subject and verb in that order. The elements that come after the verb depend on the type of verb: for example, whether it is transitive or not. Some verbs belong to more than one type. For example, think can come in these three patterns.
+
+Intransitive (without an object): I'm **thinking**.
+Transitive (with an object): Yes, I **thought** the same.
+With object and complement: People will **think** me stupid.
+
+Extra adverbials • 12
+
+We can always add an extra adverbial to a clause.
+A man walked into a hotel.
+**One day** a man walked **casually** into a hotel.
+
+And and or • 13
+
+We can join two phrases with and or or.
+**The inspector and the thief** got out of the coach.
+
+Phrases in apposition • 14
+We can put one noun phrase after another.
+**Our neighbour Mr Bradshaw** is a policeman.
+
 # 3. [Statements, questions, imperatives and exclamations](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 4. [Questions and answers](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 5. [Leaving out and replacing words](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
