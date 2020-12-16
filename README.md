@@ -290,11 +290,11 @@ Basic clause patterns
 
 Intransitive and transitive verbs • 8
 
-| Subject | Intransive Verb |
+| Subject | Intransitive Verb |
 |---------|-----------------|
 | A couch | stopped         |
 
-| Subject       | Intransive Verb | Object    |
+| Subject       | Intransitive Verb | Object    |
 |---------------|-----------------|-----------|
 | The detective | arrested        | the thief |
 
@@ -347,6 +347,84 @@ We can join two phrases with and or or.
 Phrases in apposition • 14
 We can put one noun phrase after another.
 **Our neighbour Mr Bradshaw** is a policeman.
+
+# Intransitive and transitive verbs.
+
+1. An intransitive verb cannot take an object, although there can be a prepositional phrase after it.
+
+The man **was waiting** at the side of the road.
+Something unfortunate **happened**.
+The man **runs** along the beach every morning. 
+
+A verb can be intransitive in one meaning and transitive in another. For example, run is transitive when it means 'manage.
+
+He **runs** his own business.
+
+2. A transitive verb takes an object. 
+
+The man **stole a coat**.
+Everyone **enjoyed the conference**.
+The driver **saw the hitch-hiker** at the side of the road.
+The man **had no money**.
+
+Transitive verbs can express not only actions (stole) but also feelings (enjoyed), perception (saw) and possession (had).
+
+After some transitive verbs we can leave out the object when it would add little or nothing to the meaning.
+
+The man opposite was **reading** (a book).
+We're going to **eat** (a meal).
+A woman was **driving** (the coach).
+
+We can also leave out the object after these verbs:
+
+ask/answer (a question), draw/paint (a picture), enter/leave (a room/building), pass/fail (a test/exam), play/win/lose (a game), practise (a skill), sing (a song), speak (a few words), study (a subject).
+
+The following verbs can also be without an object if the context is clear: begin, choose, decide, hear, help, know, notice, see, start.
+
+NOTE
+There must be an object after discuss and deny.
+The committee discussed the problem. He denied the accusation.
+
+3. Many verbs can be either transitive or intransitive.
+
+Transitive
+
+The driver stopped the coach.
+He opened the door.
+I broke a cup.
+Someone rang the bell.
+
+Intransitive
+
+The coach stopped.
+The door opened.
+The cup broke.
+The bell rang.
+
+The two sentences can describe the same event. The transitive sentence has as its subject the agent, the person who made the event happen (the driver). The intransitive sentence describes the event but does not mention the agent.
+
+Here are some common verbs that can be transitive or intransitive:
+
+| alter    | develop | increase | shine      | tear   |
+|----------|---------|----------|------------|--------|
+| begin    | divide  | join     | shut       | turn   |
+| bend     | drive   | melt     | slide      | weaken |
+| boil     | dry     | mix      | smash      | unite  |
+| break    | end     | move     | soften     |        |
+| burn     | finish  | open     | sound      |        |
+| change   | fly     | pour     | spread     |        |
+| close    | freeze  | ring     | stand      |        |
+| cook     | hang    | roll     | start      |        |
+| combine  | harden  | sail     | stop       |        |
+| continue | hurt    | separate | strengthen |        |
+| crash    | improve | shake    | swing      |        |
+
+NOTE
+Raise is transitive, and rise is intransitive.
+The oil companies will raise their prices.
+The price of oil will rise.
+For lay and lie, •11(2) Note b.
+
 
 # 3. [Statements, questions, imperatives and exclamations](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 4. [Questions and answers](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
