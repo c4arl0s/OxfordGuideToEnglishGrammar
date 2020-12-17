@@ -425,6 +425,57 @@ The oil companies will raise their prices.
 The price of oil will rise.
 For lay and lie, •11(2) Note b.
 
+# 9. Linking verbs
+
+1. Linking verb + complement
+
+A complement is an adjective phrase or a noun phrase. A complement relates to the subject: it describes the subject or identifies it (says who or what it is). Between the subject and complement is a linking verb, e.g. be.
+
+The hotel **was quiet**. 
+The thief **seemed depressed**.
+The book has **become a best-seller**. 
+It's **getting dark**.
+A week in the Lake District would **make a nice break**.
+
+These are the most common verbs in this pattern.
+
+
++ adjective or noun phrase: appear, be, become, look, prove, remain, seem, sound, stay
++ adjective: feel, get, go, grow, smell, taste, turn
++ noun phrase: make
+
+There are also some idiomatic expressions which are a linking verb + complement, e.g. burn low, come good, come true, fall asleep, fall ill, fall silent, ring true, run dry, run wild, wear thin.
+
+We can use some linking verbs in other patterns.
+
+Linking: Your garden **looks nice**.
+Intransitive: **We looked** at the exhibition.
+
+# Note
+
+NOTE
+a After seem, appear, look and sound, we use to be when the complement is a noun phrase
+identifying the subject.
+
+The woman seemed to be Lord Melbury's secretary.
+NOT The woman seemed Lord Melbury's secretary.
+But we can leave out to be when the noun phrase gives other kinds of information.
+The woman seemed (to be) a real expert. (For American usage, • 303(1).)
+b There is a special pattern where a complement occurs with an action verb, not a linking verb.
+We **arrived exhaustedi**.
+**He walked away **a free ma**n.
+**I came** home **really tired** one evening.
+We use this pattern in a very small number of contexts. We can express the same meaning in two clauses: We were exhausted when we arrived.
+
+2. We use this pattern in a very small number of contexts. We can express the same meaning in two clauses: We were exhausted when we arrived.
+
+An adverbial can be an adverb phrase, prepositional phrase or noun phrase. An adverbial after a linking verb relates to the subject. It often expresses place or time, but it can have other meanings.
+
+
+The coat ** was here**. The conference **is every year**.
+The drawings **lay on the table**. **I'm on a diet**.
+Joan Collins **lives in style**. The parcel **went by air**.
+
 
 # 3. [Statements, questions, imperatives and exclamations](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 4. [Questions and answers](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
