@@ -476,6 +476,103 @@ The coat ** was here**. The conference **is every year**.
 The drawings **lay on the table**. **I'm on a diet**.
 Joan Collins **lives in style**. The parcel **went by air**.
 
+# 10 Give, send etc
+
+Verbs like give and send can have two objects, or they can have an object and an adverbial. There are some examples in this conversation, which takes place in a department store.
+
+CLAIMING BACK TAX
+
+Customer: I've bought these sweaters, and I'm taking them home to Brazil. I understand I can claim back the tax I pay.
+Clerk: That's right.Have  you filled in a form?
+Customer: Yes, and I've got the receipts here.
+Clerk: Right.Now,when you go through British Customs, you **give the customs officer the form** with the receipts.
+Customer: **I give the form to the Customs** when I leave Britain?
+Clerk: That's right. They'll **give you one copy** back and keep one themselves. Customer: Uh-huh.
+Clerk: Now I'll **give you this envelope**. You **send the copy** back **to us** in the envelope.
+Customer: I post it to you.
+Clerk: That's right.
+Customer: And how do I get the money?
+Clerk: Oh, we **send you a cheque**. We'll **send it** off **to you** straight away.
+
+1. Two objects
+
+When the verb has two objects, the first is the indirect object and the second is the direct object.
+
+|                | Indirect object     | Direct object   |
+|----------------|---------------------|-----------------|
+| You give       | the customs officer |   the form      |
+| We send        | you                 | a cheque.       |
+| The man bought | the woman           | a diamond ring. |
+| I can reserve  | you                 | a seat.         |
+
+Here the indirect object refers to the person receiving something, and the direct object refers to the thing that is given.
+
+2. Object + adverbial
+
+Instead of an indirect object, we can use a prepositional phrase with to or for.
+
+|                | Indirect object | Prepositional phrase |
+|----------------|-----------------|----------------------|
+| You give       | the form        | to the Customs.      |
+| We send        | the copy        | to us.               |
+| The man bought | a diamond ring  | for the woman.       |
+| I can reserve  | a seat          | for you.             |
+
+3. Which pattern?
+
+
+In a clause with give, send etc, there is a choice of pattern between give the customs officer theform and give theform to the customs officer. The choice depends on what information is new. The new information goes at the end of the clause.
+I'll give you **this envelope**.     
+
+In the conversation Claiming back tax, this envelope is the point of interest, the new information, so it comes at the end.
+
+Compare the patterns in these sentences.
+
+He left his children five million pounds.
+(The amount of money is the point of interest.)
+
+He left all his money to a dog's home.
+(Who receives the money is the point of interest.)
+
+Note:
+a The adverbial or indirect object is often necessary to complete the meaning.
+He handed the receipt to the customer.
+But sometimes it is not necessary to mention the person receiving something.
+You'll have to show your ticket on the train.
+(It is obvious that you show it to the ticket inspector.) I'm writing a letter.
+(You don't want to say who you are writing to.)
+b Most verbs of speech cannot take an indirect object, but we can use a phrase with to. The man said nothing (to the police).
+But tell almost always has an indirect object. • 266 The man told the police nothing.
+
+4. Pronouns after give, send etc
+
+When there is a pronoun, it usually comes before a phrase with a noun.
+
+We send you a cheque.
+He had lots of money, but he left it to a dogs' home.
+
+When there are two pronouns after the verb, we normally use to or for.
+
+We'll send it off to you straight away.
+I've got a ticket for Wimbledon. Norman bought it for me.
+
+5. To or for ?
+
+Some verbs go with to and some with for.
+
+He handed the receipt to the customer.
+Tom got drinks for everyone.
+
+With to: award, bring, feed, give, grant, hand, leave (in a will), lend, offer, owe, pass, pay, post, promise, read, sell, send, show, take, teach, tell, throw, write.
+
+With for: bring, buy, cook, fetch, find, get, keep, leave, make, order, pick, reserve, save, spare.
+
+Note:
+a Bring goes with either to or for.
+b For meaning 'to help someone' can go with very many verbs.
+
+I'm writing a letter for my sister. (She can't write.)
+    
 
 # 3. [Statements, questions, imperatives and exclamations](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 4. [Questions and answers](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
