@@ -572,7 +572,52 @@ a Bring goes with either to or for.
 b For meaning 'to help someone' can go with very many verbs.
 
 I'm writing a letter for my sister. (She can't write.)
-    
+
+# 11 Call, put etc
+
+1. Verb + object + complement
+
+Compare these two kinds of complement.
+
+| Subject        | Subject Complement | Subject          | Object     | Object Complement |
+|----------------|--------------------|------------------|------------|-------------------|
+| The driver was | tired              | The journey made | the driver | tired             |
+| He become      | president          | They electec     | him        | president         |
+
+The subject complement relates to the subject of the clause; • 9. The object complement relates to the object of the clause. In both patterns tired relates to the driver, and president relates to he/him.
+
+Here are some more sentences with an object complement.
+
+The thief thought himself rather unlucky. They called the dog Sasha.
+The court found him guilty of robbery. We painted the walls bright yellow.
+Here are some more sentences with an object complement.
+
+The thief thought himself rather unlucky. They called the dog Sasha.
+The subject complement relates to the subject of the clause; • 9. The object complement relates to the object of the clause. In both patterns tired relates to the driver, and president relates to he/him.
+I prefer my soup hot.t    
+
+Here are some verbs in this pattern.
+
+
+With adjective or noun phrase: believe, call, consider, declare, find, keep, leave, like, make, paint, prefer, prove, think, want.
+
+With adjective: drive, get, hold, pull, push, send, turn
+With adjective or noun phrase: appoint, elect, name, vote
+
+2. Verb + object + adverbial
+
+The adverbial in this pattern typically expresses place.
+
+The man put the coat over his arm. We keep the car in the garage.
+He got the screw **into the hole**. The path led us **through trees**.
+
+NOTE
+a Leave can come in this pattern, but forget cannot.
+   I left my umbrella at home. But NOT I forgot my umbrella at home.
+b Lay (past: laid) comes in the same pattern as put.
+   The woman laid a blanket on the ground.
+  Lie (past: lay) is a linking verb which takes an adverbial. • 9(2)
+   The woman lay in the sunshine.
 
 # 3. [Statements, questions, imperatives and exclamations](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 4. [Questions and answers](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
