@@ -654,6 +654,44 @@ Another extra element is the name or description of the person spoken to. As wel
 You're in trouble, my friend. Sarah, what are you doing?
 Come on everybody, let's go!
 
+# 13 And and or.
+
+1. We can link two or more phrases with and or or. Here are some examples with noun phrases.
+
+The man and the woman were waiting.
+The man, the woman and the child were waiting.
+Wednesday or Thursday would be all right.
+Wednesday, Thursday or Friday would be all right.
+
+And or or usually comes only once, before the last item.
+
+2. We can use and and or with other kinds of words and phrases.
+
+It was a cold and windy day. (adjective)
+He waited fifteen or twenty minutes. (number)
+The work went smoothly, quietly and very efficiently. (adverb phrase)
+
+Note 
+a We can use two adjectives together without a linking word, e.g. a cold, windy day. • 202
+b We can use two complements or two adverbials with and or or even if they are different kinds of phrase, such as an adjective and noun phrase.
+   The book has becomefamous and a best-seller. We can meet here or in town.
+   The hotel was quiet and well back from the road.
+
+3. Compare these two sentences.
+
+He stole a hat and a coat.
+He stole a hat and coat.
+
+In the first sentence and links two noun phrases (a hat, a coat);
+in the second it links two nouns (hat, coat). 
+The second sentence suggests that there is a link between the two items, that they belong together.
+   He stole a hat and a typewriter. (not linked)
+   He stole a cup and saucer. (belonging together)
+
+Note
+a And, or (and but) can link verb phrases and also whole clauses. • 243
+b For or in questions, • 31.
+
 # 3. [Statements, questions, imperatives and exclamations](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 4. [Questions and answers](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 5. [Leaving out and replacing words](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
