@@ -674,7 +674,7 @@ The work went smoothly, quietly and very efficiently. (adverb phrase)
 Note 
 a We can use two adjectives together without a linking word, e.g. a cold, windy day. • 202
 b We can use two complements or two adverbials with and or or even if they are different kinds of phrase, such as an adjective and noun phrase.
-   The book has becomefamous and a best-seller. We can meet here or in town.
+   The book has become famous and a best-seller. We can meet here or in town.
    The hotel was quiet and well back from the road.
 
 3. Compare these two sentences.
@@ -691,6 +691,30 @@ The second sentence suggests that there is a link between the two items, that th
 Note
 a And, or (and but) can link verb phrases and also whole clauses. • 243
 b For or in questions, • 31.
+
+# Phrases in apposition
+
+Two noun phrases are in apposition when one comes after the other and both refer to the same thing.
+
+Everyone visits the White House, the home of the President.
+Joseph Conrad, the famous English novelist, couldn't speak English until
+he was 47.
+
+When the second phrase adds extra information, we use a comma.
+
+When the second phrase identifies the first one, we do not use a comma.
+
+The novelist Joseph Conrad couldn't speak English until he was 47.
+Pretty 25-year-old secretary Linda Pilkington has shocked her friends and neighbours.
+The sentence about Linda is typical of newspaper style.
+
+We can also use apposition to add emphasis. This happens in speech, too.
+The man is a fool, a complete idiot.
+
+Other kinds of phrases can be in apposition.
+
+The place is miles away, much toofar to walk.
+The experts say the painting is quite valuable, worth a lot ofmoney.
 
 # 3. [Statements, questions, imperatives and exclamations](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 4. [Questions and answers](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
