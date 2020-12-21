@@ -619,6 +619,41 @@ b Lay (past: laid) comes in the same pattern as put.
   Lie (past: lay) is a linking verb which takes an adverbial. • 9(2)
    The woman lay in the sunshine.
 
+# Extra Adverbials
+
+1. Look at these clause patterns.
+
+| Subject        | Verb | Adverbial  |
+|----------------|------|------------|
+| The conference | is   | every year |
+
+| Subject | Verb | object   | Adverbial    |
+|---------|------|----------|--------------|
+| He      | put  | the coat | over his arm |
+
+These adverbials cannot be left out. They are necessary to complete the sentence.
+
+2. We can add extra adverbials to any of the clause patterns.
+
+At last a coach stopped.
+The coach was carrying detectives on their way home from a conference on crime.
+He had recently become a detective inspector.
+The conference is every year, presumably.
+At once the thief gave the inspector his coat.
+He probably considered himself rather unlucky.
+He casually put the coat over his arm.
+
+These extra adverbials can be left out. They are not necessary to complete the sentence.
+
+For details about the position of adverbials, • 208. An extra adverbial does not affect the word order in the rest of the sentence, and the subject-verb order stays the same.
+
+At last a coach stopped.
+
+Note
+Another extra element is the name or description of the person spoken to. As well as in statements, it can come in questions and imperatives.
+You're in trouble, my friend. Sarah, what are you doing?
+Come on everybody, let's go!
+
 # 3. [Statements, questions, imperatives and exclamations](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 4. [Questions and answers](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
 # 5. [Leaving out and replacing words](https://github.com/c4arl0s/OxfordGuideToEnglishGrammar#sentence-and-text)
